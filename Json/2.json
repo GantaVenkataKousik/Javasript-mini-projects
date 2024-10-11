@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Blood Culture",
+    "price": "760/-",
+    "specimen": "Whole Blood Culture Bottle"
+  },
+  {
+    "name": "Urine Culture",
+    "price": "680/-",
+    "specimen": "Urine in Sterile Container"
+  },
+  {
+    "name": "Stool Culture",
+    "price": "680/-",
+    "specimen": "Stool in Sterile Container"
+  },
+  {
+    "name": "Pus Culture",
+    "price": "680/-",
+    "specimen": "Pus in Sterile Container"
+  },
+  {
+    "name": "Vaginal Swab Culture",
+    "price": "760/-",
+    "specimen": "Vaginal Swab on Sterile Swab"
+  },
+  {
+    "name": "Ear Swab Culture",
+    "price": "760/-",
+    "specimen": "Ear Swab on Sterile Swab"
+  }
+]

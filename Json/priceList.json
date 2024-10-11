@@ -1,0 +1,122 @@
+[
+  {
+    "name": "GAMMA GLUTAMYL TRANSPEPTIDASE; GGT",
+    "price": "360/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "GLOBULIN, SERUM",
+    "price": "200/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "GLUCOSE, FASTING",
+    "price": "176/-",
+    "specimen": "PLASMA from 1 Grey Top (Sodium Fluoride)"
+  },
+  {
+    "name": "GLUCOSE, RANDOM",
+    "price": "176/-",
+    "specimen": "PLASMA from 1 Grey Top (Sodium Fluoride)"
+  },
+  {
+    "name": "GLUCOSE, POSTPRANDIAL, 2 HOURS",
+    "price": "176/-",
+    "specimen": "PLASMA from 1 Grey Top (Sodium Fluoride)"
+  },
+  {
+    "name": "IRON, SERUM",
+    "price": "840/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "KIDNEY FUNCTION TEST (KFT)",
+    "price": "600/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "LIPASE, SERUM",
+    "price": "520/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "LIPID PROFILE",
+    "price": "640/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "LIVER FUNCTION TEST (LFT)",
+    "price": "600/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "MAGNESIUM, SERUM",
+    "price": "400/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "PHOSPHORUS, SERUM",
+    "price": "224/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "POTASSIUM",
+    "price": "224/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "PROTEIN, TOTAL, SERUM",
+    "price": "224/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "PROTEIN TOTAL, SERUM *ALBUMIN *GLOBULIN * A:G RATIO",
+    "price": "240/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "PHENOBARBITONE",
+    "price": "1040/-",
+    "specimen": "SERUM from 1 Red Top"
+  },
+  {
+    "name": "SGOT / AST",
+    "price": "200/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "SGPT / ALT",
+    "price": "200/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "SODIUM, SERUM",
+    "price": "224/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "TRIGLYCERIDES, SERUM",
+    "price": "280/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "UREA, SERUM",
+    "price": "200/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "URIC ACID, SERUM",
+    "price": "224/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "VITAMIN B12; CYANOCOBALAMIN",
+    "price": "1040/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  },
+  {
+    "name": "VITAMIN D, 25 Hydroxy",
+    "price": "1280/-",
+    "specimen": "SERUM from 1 Red Top / SST"
+  }
+]
